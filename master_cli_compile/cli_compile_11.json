@@ -310,7 +310,7 @@
                     },
 {"name": "WebServer/examples/PathArgServer",
                     "sizes": [{
-                            "flash_bytes": 1187597,
+                            "flash_bytes": 1187605,
                             "flash_percentage": 37,
                             "ram_bytes": 47756,
                             "ram_percentage": 14
