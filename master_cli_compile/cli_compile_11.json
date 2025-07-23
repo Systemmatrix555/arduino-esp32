@@ -278,7 +278,7 @@
                     },
 {"name": "WebServer/examples/HttpBasicAuthSHA1",
                     "sizes": [{
-                            "flash_bytes": 945045,
+                            "flash_bytes": 945037,
                             "flash_percentage": 72,
                             "ram_bytes": 45168,
                             "ram_percentage": 13
@@ -653,7 +653,7 @@
                     },
 {"name": "Zigbee/examples/Zigbee_Color_Dimmable_Light",
                     "sizes": [{
-                            "flash_bytes": 626341,
+                            "flash_bytes": 626355,
                             "flash_percentage": 47,
                             "ram_bytes": 29332,
                             "ram_percentage": 8
