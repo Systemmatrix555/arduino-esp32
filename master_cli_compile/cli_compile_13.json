@@ -903,7 +903,7 @@
                     },
 {"name": "WiFiProv/examples/WiFiProv",
                     "sizes": [{
-                            "flash_bytes": 1723335,
+                            "flash_bytes": 1723319,
                             "flash_percentage": 54,
                             "ram_bytes": 57920,
                             "ram_percentage": 17
