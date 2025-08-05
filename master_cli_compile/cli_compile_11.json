@@ -467,7 +467,7 @@
                     },
 {"name": "WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 979350,
+                            "flash_bytes": 979358,
                             "flash_percentage": 74,
                             "ram_bytes": 40636,
                             "ram_percentage": 12
@@ -855,7 +855,7 @@
                     },
 {"name": "WebServer/examples/HttpAuthCallback",
                     "sizes": [{
-                            "flash_bytes": 1010071,
+                            "flash_bytes": 1010055,
                             "flash_percentage": 77,
                             "ram_bytes": 49784,
                             "ram_percentage": 15

@@ -411,7 +411,7 @@
                     },
 {"name": "NetBIOS/examples/ESP_NBNST",
                     "sizes": [{
-                            "flash_bytes": 840682,
+                            "flash_bytes": 840690,
                             "flash_percentage": 64,
                             "ram_bytes": 38604,
                             "ram_percentage": 11
@@ -451,7 +451,7 @@
                     },
 {"name": "NetworkClientSecure/examples/WiFiClientSecureProtocolUpgrade",
                     "sizes": [{
-                            "flash_bytes": 939482,
+                            "flash_bytes": 939474,
                             "flash_percentage": 71,
                             "ram_bytes": 40420,
                             "ram_percentage": 12
@@ -927,7 +927,7 @@
                     },
 {"name": "Matter/examples/MatterDimmableLight",
                     "sizes": [{
-                            "flash_bytes": 1765375,
+                            "flash_bytes": 1765391,
                             "flash_percentage": 56,
                             "ram_bytes": 106184,
                             "ram_percentage": 32
