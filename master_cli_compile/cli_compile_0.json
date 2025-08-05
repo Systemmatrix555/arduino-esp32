@@ -238,7 +238,7 @@
                 "sketches": [
 {"name": "ArduinoOTA/examples/BasicOTA",
                     "sizes": [{
-                            "flash_bytes": 948419,
+                            "flash_bytes": 948435,
                             "flash_percentage": 72,
                             "ram_bytes": 49204,
                             "ram_percentage": 15
