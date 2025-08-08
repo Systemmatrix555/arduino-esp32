@@ -238,7 +238,7 @@
                 "sketches": [
 {"name": "WebServer/examples/SimpleAuthentification",
                     "sizes": [{
-                            "flash_bytes": 916355,
+                            "flash_bytes": 916371,
                             "flash_percentage": 69,
                             "ram_bytes": 44848,
                             "ram_percentage": 13
@@ -326,7 +326,7 @@
                     },
 {"name": "WiFi/examples/WiFiClientBasic",
                     "sizes": [{
-                            "flash_bytes": 883399,
+                            "flash_bytes": 883383,
                             "flash_percentage": 67,
                             "ram_bytes": 44528,
                             "ram_percentage": 13
