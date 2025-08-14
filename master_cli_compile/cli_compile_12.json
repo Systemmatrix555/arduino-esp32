@@ -326,7 +326,7 @@
                     },
 {"name": "WiFi/examples/WiFiClientBasic",
                     "sizes": [{
-                            "flash_bytes": 883383,
+                            "flash_bytes": 883399,
                             "flash_percentage": 67,
                             "ram_bytes": 44528,
                             "ram_percentage": 13
