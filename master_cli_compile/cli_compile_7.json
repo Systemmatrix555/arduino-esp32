@@ -919,7 +919,7 @@
                     },
 {"name": "Matter/examples/MatterContactSensor",
                     "sizes": [{
-                            "flash_bytes": 1742199,
+                            "flash_bytes": 1742215,
                             "flash_percentage": 55,
                             "ram_bytes": 105932,
                             "ram_percentage": 32
@@ -943,7 +943,7 @@
                     },
 {"name": "Matter/examples/MatterEvents",
                     "sizes": [{
-                            "flash_bytes": 1746859,
+                            "flash_bytes": 1746843,
                             "flash_percentage": 55,
                             "ram_bytes": 105948,
                             "ram_percentage": 32
