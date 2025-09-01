@@ -451,7 +451,7 @@
                     },
 {"name": "ESPmDNS/examples/mDNS-SD_Extended",
                     "sizes": [{
-                            "flash_bytes": 865390,
+                            "flash_bytes": 865398,
                             "flash_percentage": 66,
                             "ram_bytes": 40876,
                             "ram_percentage": 12
