@@ -238,7 +238,7 @@
                 "sketches": [
 {"name": "HTTPClient/examples/StreamHttpClient",
                     "sizes": [{
-                            "flash_bytes": 1005855,
+                            "flash_bytes": 1005839,
                             "flash_percentage": 76,
                             "ram_bytes": 45192,
                             "ram_percentage": 13
