@@ -419,7 +419,7 @@
                     },
 {"name": "libraries/WiFi/examples/FTM/FTM_Responder",
                     "sizes": [{
-                            "flash_bytes": 836622,
+                            "flash_bytes": 836630,
                             "flash_percentage": 63,
                             "ram_bytes": 38580,
                             "ram_percentage": 11
@@ -491,7 +491,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiClientStaticIP",
                     "sizes": [{
-                            "flash_bytes": 852018,
+                            "flash_bytes": 852026,
                             "flash_percentage": 65,
                             "ram_bytes": 39988,
                             "ram_percentage": 12

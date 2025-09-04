@@ -286,7 +286,7 @@
                     },
 {"name": "libraries/Insights/examples/MinimalDiagnostics",
                     "sizes": [{
-                            "flash_bytes": 1009751,
+                            "flash_bytes": 1009767,
                             "flash_percentage": 77,
                             "ram_bytes": 46584,
                             "ram_percentage": 14
