@@ -318,7 +318,7 @@
                     },
 {"name": "libraries/Insights/examples/MinimalDiagnostics",
                     "sizes": [{
-                            "flash_bytes": 1010699,
+                            "flash_bytes": 1010715,
                             "flash_percentage": 77,
                             "ram_bytes": 46584,
                             "ram_percentage": 14
@@ -975,7 +975,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSPIFFS",
                     "sizes": [{
-                            "flash_bytes": 986747,
+                            "flash_bytes": 986763,
                             "flash_percentage": 75,
                             "ram_bytes": 46520,
                             "ram_percentage": 14

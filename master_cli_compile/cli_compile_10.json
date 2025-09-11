@@ -887,7 +887,7 @@
                     },
 {"name": "libraries/SimpleBLE/examples/SimpleBleDevice",
                     "sizes": [{
-                            "flash_bytes": 1077783,
+                            "flash_bytes": 1077919,
                             "flash_percentage": 82,
                             "ram_bytes": 39012,
                             "ram_percentage": 11
