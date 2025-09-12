@@ -286,7 +286,7 @@
                     },
 {"name": "libraries/WiFi/examples/SimpleWiFiServer",
                     "sizes": [{
-                            "flash_bytes": 911175,
+                            "flash_bytes": 911159,
                             "flash_percentage": 69,
                             "ram_bytes": 44652,
                             "ram_percentage": 13
@@ -411,7 +411,7 @@
                     },
 {"name": "libraries/WebServer/examples/SimpleAuthentification",
                     "sizes": [{
-                            "flash_bytes": 887974,
+                            "flash_bytes": 887982,
                             "flash_percentage": 67,
                             "ram_bytes": 40196,
                             "ram_percentage": 12
@@ -451,7 +451,7 @@
                     },
 {"name": "libraries/WiFi/examples/FTM/FTM_Responder",
                     "sizes": [{
-                            "flash_bytes": 837610,
+                            "flash_bytes": 837602,
                             "flash_percentage": 63,
                             "ram_bytes": 38580,
                             "ram_percentage": 11
