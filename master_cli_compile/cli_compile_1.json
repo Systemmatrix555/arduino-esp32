@@ -4,15 +4,15 @@
                 "sketches": [
 {"name": "libraries/BLE/examples/iBeacon",
                     "sizes": [{
-                            "flash_bytes": 783472,
-                            "flash_percentage": 24,
+                            "flash_bytes": 788900,
+                            "flash_percentage": 25,
                             "ram_bytes": 26172,
                             "ram_percentage": 7
                             }]
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 1047442,
+                            "flash_bytes": 1047542,
                             "flash_percentage": 79,
                             "ram_bytes": 47336,
                             "ram_percentage": 14
@@ -145,39 +145,39 @@
                 "sketches": [
 {"name": "libraries/BLE/examples/Server_secure_static_passkey",
                     "sizes": [{
-                            "flash_bytes": 779538,
-                            "flash_percentage": 24,
-                            "ram_bytes": 32752,
+                            "flash_bytes": 793594,
+                            "flash_percentage": 25,
+                            "ram_bytes": 32756,
                             "ram_percentage": 9
                             }]
                     },
 {"name": "libraries/BLE/examples/UART",
                     "sizes": [{
-                            "flash_bytes": 782410,
-                            "flash_percentage": 24,
-                            "ram_bytes": 32752,
+                            "flash_bytes": 796554,
+                            "flash_percentage": 25,
+                            "ram_bytes": 32764,
                             "ram_percentage": 9
                             }]
                     },
 {"name": "libraries/BLE/examples/Write",
                     "sizes": [{
-                            "flash_bytes": 778406,
-                            "flash_percentage": 24,
-                            "ram_bytes": 32736,
+                            "flash_bytes": 792550,
+                            "flash_percentage": 25,
+                            "ram_bytes": 32748,
                             "ram_percentage": 9
                             }]
                     },
 {"name": "libraries/BLE/examples/iBeacon",
                     "sizes": [{
-                            "flash_bytes": 784602,
-                            "flash_percentage": 24,
-                            "ram_bytes": 32752,
+                            "flash_bytes": 798746,
+                            "flash_percentage": 25,
+                            "ram_bytes": 32764,
                             "ram_percentage": 9
                             }]
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 881526,
+                            "flash_bytes": 881626,
                             "flash_percentage": 67,
                             "ram_bytes": 31084,
                             "ram_percentage": 9
@@ -254,7 +254,7 @@
                 "sketches": [
 {"name": "libraries/BLE/examples/iBeacon",
                     "sizes": [{
-                            "flash_bytes": 619043,
+                            "flash_bytes": 623423,
                             "flash_percentage": 19,
                             "ram_bytes": 32724,
                             "ram_percentage": 9
@@ -262,7 +262,7 @@
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 923435,
+                            "flash_bytes": 923483,
                             "flash_percentage": 70,
                             "ram_bytes": 44968,
                             "ram_percentage": 13
@@ -382,7 +382,7 @@
                     },
 {"name": "libraries/ESP32/examples/Camera/CameraWebServer",
                     "sizes": [{
-                            "flash_bytes": 1026459,
+                            "flash_bytes": 1026507,
                             "flash_percentage": 6,
                             "ram_bytes": 66268,
                             "ram_percentage": 20
@@ -390,7 +390,7 @@
                     },
 {"name": "libraries/ESP32/examples/Camera/CameraWebServer",
                     "sizes": [{
-                            "flash_bytes": 1029367,
+                            "flash_bytes": 1029423,
                             "flash_percentage": 6,
                             "ram_bytes": 66352,
                             "ram_percentage": 20
@@ -398,7 +398,7 @@
                     },
 {"name": "libraries/ESP32/examples/Camera/CameraWebServer",
                     "sizes": [{
-                            "flash_bytes": 1031659,
+                            "flash_bytes": 1031707,
                             "flash_percentage": 6,
                             "ram_bytes": 66752,
                             "ram_percentage": 20
@@ -443,7 +443,7 @@
                     },
 {"name": "libraries/ESP32/examples/Camera/CameraWebServer",
                     "sizes": [{
-                            "flash_bytes": 1000630,
+                            "flash_bytes": 1000674,
                             "flash_percentage": 5,
                             "ram_bytes": 62036,
                             "ram_percentage": 18
@@ -451,7 +451,7 @@
                     },
 {"name": "libraries/ESP32/examples/Camera/CameraWebServer",
                     "sizes": [{
-                            "flash_bytes": 1004506,
+                            "flash_bytes": 1004550,
                             "flash_percentage": 5,
                             "ram_bytes": 62072,
                             "ram_percentage": 18
@@ -544,7 +544,7 @@
                 "sketches": [
 {"name": "libraries/BLE/examples/UART",
                     "sizes": [{
-                            "flash_bytes": 638470,
+                            "flash_bytes": 643898,
                             "flash_percentage": 20,
                             "ram_bytes": 22632,
                             "ram_percentage": 6
@@ -552,7 +552,7 @@
                     },
 {"name": "libraries/BLE/examples/Write",
                     "sizes": [{
-                            "flash_bytes": 634466,
+                            "flash_bytes": 639894,
                             "flash_percentage": 20,
                             "ram_bytes": 22624,
                             "ram_percentage": 6
@@ -560,7 +560,7 @@
                     },
 {"name": "libraries/BLE/examples/iBeacon",
                     "sizes": [{
-                            "flash_bytes": 640660,
+                            "flash_bytes": 646088,
                             "flash_percentage": 20,
                             "ram_bytes": 22632,
                             "ram_percentage": 6
@@ -568,7 +568,7 @@
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 988704,
+                            "flash_bytes": 988806,
                             "flash_percentage": 75,
                             "ram_bytes": 35456,
                             "ram_percentage": 10
@@ -669,7 +669,7 @@
                 "sketches": [
 {"name": "libraries/BLE/examples/iBeacon",
                     "sizes": [{
-                            "flash_bytes": 714846,
+                            "flash_bytes": 720278,
                             "flash_percentage": 22,
                             "ram_bytes": 22068,
                             "ram_percentage": 6
@@ -677,8 +677,8 @@
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 996136,
-                            "flash_percentage": 75,
+                            "flash_bytes": 996236,
+                            "flash_percentage": 76,
                             "ram_bytes": 41676,
                             "ram_percentage": 12
                             }]
@@ -810,25 +810,25 @@
                 "sketches": [
 {"name": "libraries/BLE/examples/UART",
                     "sizes": [{
-                            "flash_bytes": 732988,
+                            "flash_bytes": 747140,
                             "flash_percentage": 23,
-                            "ram_bytes": 20992,
+                            "ram_bytes": 21016,
                             "ram_percentage": 6
                             }]
                     },
 {"name": "libraries/BLE/examples/Write",
                     "sizes": [{
-                            "flash_bytes": 728984,
+                            "flash_bytes": 743136,
                             "flash_percentage": 23,
-                            "ram_bytes": 20984,
+                            "ram_bytes": 21000,
                             "ram_percentage": 6
                             }]
                     },
 {"name": "libraries/BLE/examples/iBeacon",
                     "sizes": [{
-                            "flash_bytes": 735178,
+                            "flash_bytes": 749330,
                             "flash_percentage": 23,
-                            "ram_bytes": 20992,
+                            "ram_bytes": 21016,
                             "ram_percentage": 6
                             }]
                     },
@@ -975,7 +975,7 @@
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 969111,
+                            "flash_bytes": 969167,
                             "flash_percentage": 73,
                             "ram_bytes": 45180,
                             "ram_percentage": 13
