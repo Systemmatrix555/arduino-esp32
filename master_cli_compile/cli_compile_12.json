@@ -286,7 +286,7 @@
                     },
 {"name": "libraries/WiFi/examples/SimpleWiFiServer",
                     "sizes": [{
-                            "flash_bytes": 911159,
+                            "flash_bytes": 911175,
                             "flash_percentage": 69,
                             "ram_bytes": 44652,
                             "ram_percentage": 13
@@ -451,7 +451,7 @@
                     },
 {"name": "libraries/WiFi/examples/FTM/FTM_Responder",
                     "sizes": [{
-                            "flash_bytes": 837602,
+                            "flash_bytes": 837610,
                             "flash_percentage": 63,
                             "ram_bytes": 38580,
                             "ram_percentage": 11
@@ -919,7 +919,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiClientBasic",
                     "sizes": [{
-                            "flash_bytes": 931059,
+                            "flash_bytes": 931043,
                             "flash_percentage": 71,
                             "ram_bytes": 44732,
                             "ram_percentage": 13
