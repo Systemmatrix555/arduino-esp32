@@ -374,7 +374,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterContactSensor",
                     "sizes": [{
-                            "flash_bytes": 1856263,
+                            "flash_bytes": 1856247,
                             "flash_percentage": 59,
                             "ram_bytes": 113280,
                             "ram_percentage": 34
@@ -975,7 +975,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSPIFFS",
                     "sizes": [{
-                            "flash_bytes": 986771,
+                            "flash_bytes": 986755,
                             "flash_percentage": 75,
                             "ram_bytes": 46520,
                             "ram_percentage": 14
