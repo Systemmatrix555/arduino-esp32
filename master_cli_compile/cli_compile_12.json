@@ -411,7 +411,7 @@
                     },
 {"name": "libraries/WebServer/examples/SimpleAuthentification",
                     "sizes": [{
-                            "flash_bytes": 888042,
+                            "flash_bytes": 888034,
                             "flash_percentage": 67,
                             "ram_bytes": 40196,
                             "ram_percentage": 12
@@ -895,7 +895,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiAccessPoint",
                     "sizes": [{
-                            "flash_bytes": 936207,
+                            "flash_bytes": 936191,
                             "flash_percentage": 71,
                             "ram_bytes": 44732,
                             "ram_percentage": 13
