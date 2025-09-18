@@ -342,7 +342,7 @@
                     },
 {"name": "libraries/LittleFS/examples/LITTLEFS_time",
                     "sizes": [{
-                            "flash_bytes": 933775,
+                            "flash_bytes": 933791,
                             "flash_percentage": 71,
                             "ram_bytes": 44816,
                             "ram_percentage": 13
