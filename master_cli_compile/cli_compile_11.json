@@ -403,7 +403,7 @@
                     },
 {"name": "libraries/Update/examples/OTAWebUpdater",
                     "sizes": [{
-                            "flash_bytes": 947058,
+                            "flash_bytes": 947050,
                             "flash_percentage": 72,
                             "ram_bytes": 42872,
                             "ram_percentage": 13
@@ -927,7 +927,7 @@
                     },
 {"name": "libraries/WebServer/examples/Middleware",
                     "sizes": [{
-                            "flash_bytes": 982587,
+                            "flash_bytes": 982603,
                             "flash_percentage": 74,
                             "ram_bytes": 45220,
                             "ram_percentage": 13
