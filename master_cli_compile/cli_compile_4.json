@@ -366,7 +366,7 @@
                     },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Network",
                     "sizes": [{
-                            "flash_bytes": 884919,
+                            "flash_bytes": 884935,
                             "flash_percentage": 67,
                             "ram_bytes": 43520,
                             "ram_percentage": 13

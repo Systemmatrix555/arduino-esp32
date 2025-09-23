@@ -395,7 +395,7 @@
                 "sketches": [
 {"name": "libraries/WiFi/examples/WiFiClientEvents",
                     "sizes": [{
-                            "flash_bytes": 840430,
+                            "flash_bytes": 840422,
                             "flash_percentage": 64,
                             "ram_bytes": 38580,
                             "ram_percentage": 11
