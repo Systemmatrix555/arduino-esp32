@@ -161,7 +161,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebUpdate",
                     "sizes": [{
-                            "flash_bytes": 922216,
+                            "flash_bytes": 922244,
                             "flash_percentage": 70,
                             "ram_bytes": 33524,
                             "ram_percentage": 10
@@ -254,7 +254,7 @@
                 "sketches": [
 {"name": "libraries/WiFi/examples/WiFiMultiAdvanced",
                     "sizes": [{
-                            "flash_bytes": 1008791,
+                            "flash_bytes": 1008843,
                             "flash_percentage": 76,
                             "ram_bytes": 45168,
                             "ram_percentage": 13
@@ -395,7 +395,7 @@
                 "sketches": [
 {"name": "libraries/WiFi/examples/WiFiClientEvents",
                     "sizes": [{
-                            "flash_bytes": 840422,
+                            "flash_bytes": 840430,
                             "flash_percentage": 64,
                             "ram_bytes": 38580,
                             "ram_percentage": 11
@@ -435,7 +435,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiMultiAdvanced",
                     "sizes": [{
-                            "flash_bytes": 977758,
+                            "flash_bytes": 977814,
                             "flash_percentage": 74,
                             "ram_bytes": 40500,
                             "ram_percentage": 12
@@ -887,7 +887,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiSmartConfig",
                     "sizes": [{
-                            "flash_bytes": 953351,
+                            "flash_bytes": 953335,
                             "flash_percentage": 72,
                             "ram_bytes": 43780,
                             "ram_percentage": 13
