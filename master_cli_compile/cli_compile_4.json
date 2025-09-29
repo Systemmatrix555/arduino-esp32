@@ -278,7 +278,7 @@
                     },
 {"name": "libraries/ESP32/examples/Time/SimpleTime",
                     "sizes": [{
-                            "flash_bytes": 896831,
+                            "flash_bytes": 896847,
                             "flash_percentage": 68,
                             "ram_bytes": 44664,
                             "ram_percentage": 13
@@ -451,7 +451,7 @@
                     },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Serial",
                     "sizes": [{
-                            "flash_bytes": 850590,
+                            "flash_bytes": 850582,
                             "flash_percentage": 64,
                             "ram_bytes": 38884,
                             "ram_percentage": 11
