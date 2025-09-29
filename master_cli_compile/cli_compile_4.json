@@ -278,7 +278,7 @@
                     },
 {"name": "libraries/ESP32/examples/Time/SimpleTime",
                     "sizes": [{
-                            "flash_bytes": 896847,
+                            "flash_bytes": 896831,
                             "flash_percentage": 68,
                             "ram_bytes": 44664,
                             "ram_percentage": 13
