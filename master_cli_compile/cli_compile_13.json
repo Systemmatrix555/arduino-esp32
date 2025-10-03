@@ -467,7 +467,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiScanTime",
                     "sizes": [{
-                            "flash_bytes": 838594,
+                            "flash_bytes": 838586,
                             "flash_percentage": 63,
                             "ram_bytes": 38588,
                             "ram_percentage": 11
