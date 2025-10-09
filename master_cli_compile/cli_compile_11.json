@@ -310,7 +310,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAdvancedAuth",
                     "sizes": [{
-                            "flash_bytes": 975251,
+                            "flash_bytes": 975235,
                             "flash_percentage": 74,
                             "ram_bytes": 49652,
                             "ram_percentage": 15
@@ -419,7 +419,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1orBearerToken",
                     "sizes": [{
-                            "flash_bytes": 946138,
+                            "flash_bytes": 946130,
                             "flash_percentage": 72,
                             "ram_bytes": 45008,
                             "ram_percentage": 13
