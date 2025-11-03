@@ -459,7 +459,7 @@
                     },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientPSK",
                     "sizes": [{
-                            "flash_bytes": 924406,
+                            "flash_bytes": 924398,
                             "flash_percentage": 70,
                             "ram_bytes": 40468,
                             "ram_percentage": 12
