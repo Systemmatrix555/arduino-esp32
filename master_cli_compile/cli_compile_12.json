@@ -467,7 +467,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiMulti",
                     "sizes": [{
-                            "flash_bytes": 823318,
+                            "flash_bytes": 823326,
                             "flash_percentage": 62,
                             "ram_bytes": 38620,
                             "ram_percentage": 11
@@ -903,7 +903,7 @@
                     },
 {"name": "libraries/WiFi/examples/SimpleWiFiServer",
                     "sizes": [{
-                            "flash_bytes": 918871,
+                            "flash_bytes": 918855,
                             "flash_percentage": 70,
                             "ram_bytes": 44740,
                             "ram_percentage": 13
@@ -1015,7 +1015,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiScan",
                     "sizes": [{
-                            "flash_bytes": 898131,
+                            "flash_bytes": 898147,
                             "flash_percentage": 68,
                             "ram_bytes": 43444,
                             "ram_percentage": 13

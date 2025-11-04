@@ -443,7 +443,7 @@
                     },
 {"name": "libraries/ESPmDNS/examples/mDNS_Web_Server",
                     "sizes": [{
-                            "flash_bytes": 869206,
+                            "flash_bytes": 869214,
                             "flash_percentage": 66,
                             "ram_bytes": 42212,
                             "ram_percentage": 12
