@@ -411,7 +411,7 @@
                     },
 {"name": "libraries/HTTPClient/examples/StreamHttpClient",
                     "sizes": [{
-                            "flash_bytes": 961354,
+                            "flash_bytes": 961346,
                             "flash_percentage": 73,
                             "ram_bytes": 40524,
                             "ram_percentage": 12
