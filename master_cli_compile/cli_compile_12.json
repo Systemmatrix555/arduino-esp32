@@ -991,7 +991,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiExtender",
                     "sizes": [{
-                            "flash_bytes": 898411,
+                            "flash_bytes": 898427,
                             "flash_percentage": 68,
                             "ram_bytes": 44132,
                             "ram_percentage": 13

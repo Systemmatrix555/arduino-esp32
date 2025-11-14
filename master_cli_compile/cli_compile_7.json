@@ -951,7 +951,7 @@
                     },
 {"name": "libraries/Insights/examples/DiagnosticsSmokeTest",
                     "sizes": [{
-                            "flash_bytes": 1039639,
+                            "flash_bytes": 1039623,
                             "flash_percentage": 79,
                             "ram_bytes": 47492,
                             "ram_percentage": 14
