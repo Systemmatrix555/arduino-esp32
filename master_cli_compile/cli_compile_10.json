@@ -443,7 +443,7 @@
                     },
 {"name": "libraries/Update/examples/HTTP_Server_AES_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 927554,
+                            "flash_bytes": 927562,
                             "flash_percentage": 70,
                             "ram_bytes": 43592,
                             "ram_percentage": 13
