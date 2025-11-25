@@ -975,7 +975,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterPressureSensor",
                     "sizes": [{
-                            "flash_bytes": 1729035,
+                            "flash_bytes": 1729019,
                             "flash_percentage": 54,
                             "ram_bytes": 106600,
                             "ram_percentage": 32

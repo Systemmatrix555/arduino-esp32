@@ -951,7 +951,7 @@
                     },
 {"name": "libraries/WiFiProv/examples/WiFiProv",
                     "sizes": [{
-                            "flash_bytes": 1706659,
+                            "flash_bytes": 1706675,
                             "flash_percentage": 54,
                             "ram_bytes": 59076,
                             "ram_percentage": 18
