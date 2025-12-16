@@ -318,7 +318,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterTemperatureLight",
                     "sizes": [{
-                            "flash_bytes": 1681034,
+                            "flash_bytes": 1681042,
                             "flash_percentage": 53,
                             "ram_bytes": 93056,
                             "ram_percentage": 28
