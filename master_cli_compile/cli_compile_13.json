@@ -576,7 +576,7 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Electrical_AC_Sensor",
                     "sizes": [{
-                            "flash_bytes": 649355,
+                            "flash_bytes": 649359,
                             "flash_percentage": 49,
                             "ram_bytes": 37028,
                             "ram_percentage": 11
@@ -584,7 +584,7 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Electrical_AC_Sensor_MultiPhase",
                     "sizes": [{
-                            "flash_bytes": 649247,
+                            "flash_bytes": 649251,
                             "flash_percentage": 49,
                             "ram_bytes": 37028,
                             "ram_percentage": 11

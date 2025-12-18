@@ -209,7 +209,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterLambdaSingleCallbackManyEPs",
                     "sizes": [{
-                            "flash_bytes": 1640890,
+                            "flash_bytes": 1640882,
                             "flash_percentage": 52,
                             "ram_bytes": 93412,
                             "ram_percentage": 28
@@ -544,7 +544,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSPIFFS",
                     "sizes": [{
-                            "flash_bytes": 968291,
+                            "flash_bytes": 968275,
                             "flash_percentage": 73,
                             "ram_bytes": 47124,
                             "ram_percentage": 14
