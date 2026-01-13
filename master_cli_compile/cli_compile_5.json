@@ -528,7 +528,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdate",
                     "sizes": [{
-                            "flash_bytes": 906362,
+                            "flash_bytes": 906370,
                             "flash_percentage": 69,
                             "ram_bytes": 41120,
                             "ram_percentage": 12
