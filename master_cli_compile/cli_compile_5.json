@@ -68,7 +68,7 @@
                     },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Broadcast_Slave",
                     "sizes": [{
-                            "flash_bytes": 912071,
+                            "flash_bytes": 912087,
                             "flash_percentage": 69,
                             "ram_bytes": 44260,
                             "ram_percentage": 13
