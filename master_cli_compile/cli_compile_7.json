@@ -512,7 +512,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterOnOffLight",
                     "sizes": [{
-                            "flash_bytes": 1659554,
+                            "flash_bytes": 1659562,
                             "flash_percentage": 52,
                             "ram_bytes": 93200,
                             "ram_percentage": 28
