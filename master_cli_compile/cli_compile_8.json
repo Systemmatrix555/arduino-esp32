@@ -560,7 +560,7 @@
                     },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientTrustOnFirstUse",
                     "sizes": [{
-                            "flash_bytes": 939926,
+                            "flash_bytes": 939918,
                             "flash_percentage": 71,
                             "ram_bytes": 41124,
                             "ram_percentage": 12
