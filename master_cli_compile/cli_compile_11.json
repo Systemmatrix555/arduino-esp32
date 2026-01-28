@@ -866,7 +866,7 @@
                     },
 {"name": "libraries/WebServer/examples/HelloServer",
                     "sizes": [{
-                            "flash_bytes": 915030,
+                            "flash_bytes": 915022,
                             "flash_percentage": 69,
                             "ram_bytes": 43312,
                             "ram_percentage": 13
