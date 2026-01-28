@@ -794,7 +794,7 @@
                 "sketches": [
 {"name": "libraries/WiFi/examples/WiFiClientEnterprise",
                     "sizes": [{
-                            "flash_bytes": 932290,
+                            "flash_bytes": 932282,
                             "flash_percentage": 71,
                             "ram_bytes": 41084,
                             "ram_percentage": 12
