@@ -132,7 +132,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterEnhancedColorLight",
                     "sizes": [{
-                            "flash_bytes": 1780419,
+                            "flash_bytes": 1780403,
                             "flash_percentage": 56,
                             "ram_bytes": 107196,
                             "ram_percentage": 32

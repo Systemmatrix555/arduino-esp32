@@ -60,7 +60,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Gamepad",
                     "sizes": [{
-                            "flash_bytes": 1104603,
+                            "flash_bytes": 1106283,
                             "flash_percentage": 35,
                             "ram_bytes": 40032,
                             "ram_percentage": 12
@@ -201,9 +201,9 @@
                     },
 {"name": "libraries/BLE/examples/Client_Gamepad",
                     "sizes": [{
-                            "flash_bytes": 670098,
+                            "flash_bytes": 672046,
                             "flash_percentage": 21,
-                            "ram_bytes": 16724,
+                            "ram_bytes": 16732,
                             "ram_percentage": 5
                             }]
                     },
@@ -334,7 +334,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Gamepad",
                     "sizes": [{
-                            "flash_bytes": 823900,
+                            "flash_bytes": 825868,
                             "flash_percentage": 26,
                             "ram_bytes": 22188,
                             "ram_percentage": 6
@@ -483,7 +483,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Gamepad",
                     "sizes": [{
-                            "flash_bytes": 746370,
+                            "flash_bytes": 748342,
                             "flash_percentage": 23,
                             "ram_bytes": 17536,
                             "ram_percentage": 5
@@ -592,7 +592,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Gamepad",
                     "sizes": [{
-                            "flash_bytes": 780042,
+                            "flash_bytes": 782010,
                             "flash_percentage": 24,
                             "ram_bytes": 16512,
                             "ram_percentage": 5
@@ -733,7 +733,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Gamepad",
                     "sizes": [{
-                            "flash_bytes": 839164,
+                            "flash_bytes": 841124,
                             "flash_percentage": 26,
                             "ram_bytes": 26640,
                             "ram_percentage": 8
@@ -983,7 +983,7 @@
                     },
 {"name": "libraries/BLE/examples/Client_Gamepad",
                     "sizes": [{
-                            "flash_bytes": 640795,
+                            "flash_bytes": 642383,
                             "flash_percentage": 20,
                             "ram_bytes": 26796,
                             "ram_percentage": 8

@@ -794,7 +794,7 @@
                 "sketches": [
 {"name": "libraries/WiFi/examples/WiFiClientEnterprise",
                     "sizes": [{
-                            "flash_bytes": 932282,
+                            "flash_bytes": 932290,
                             "flash_percentage": 71,
                             "ram_bytes": 41084,
                             "ram_percentage": 12
@@ -858,7 +858,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiScanAsync",
                     "sizes": [{
-                            "flash_bytes": 823050,
+                            "flash_bytes": 823042,
                             "flash_percentage": 62,
                             "ram_bytes": 39180,
                             "ram_percentage": 11
