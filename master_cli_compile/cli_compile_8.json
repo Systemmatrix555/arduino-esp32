@@ -842,7 +842,7 @@
                     },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecureProtocolUpgrade",
                     "sizes": [{
-                            "flash_bytes": 929011,
+                            "flash_bytes": 929003,
                             "flash_percentage": 70,
                             "ram_bytes": 42108,
                             "ram_percentage": 12

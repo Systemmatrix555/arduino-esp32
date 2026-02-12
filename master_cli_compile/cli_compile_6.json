@@ -818,7 +818,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterColorLight",
                     "sizes": [{
-                            "flash_bytes": 1680328,
+                            "flash_bytes": 1680336,
                             "flash_percentage": 53,
                             "ram_bytes": 94396,
                             "ram_percentage": 28
@@ -866,7 +866,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterEnhancedColorLight",
                     "sizes": [{
-                            "flash_bytes": 1687220,
+                            "flash_bytes": 1687228,
                             "flash_percentage": 53,
                             "ram_bytes": 94436,
                             "ram_percentage": 28
