@@ -84,7 +84,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiClient",
                     "sizes": [{
-                            "flash_bytes": 914716,
+                            "flash_bytes": 914732,
                             "flash_percentage": 69,
                             "ram_bytes": 46640,
                             "ram_percentage": 14
@@ -999,7 +999,7 @@
                     },
 {"name": "libraries/WiFi/examples/FTM/FTM_Responder",
                     "sizes": [{
-                            "flash_bytes": 855030,
+                            "flash_bytes": 855046,
                             "flash_percentage": 65,
                             "ram_bytes": 44352,
                             "ram_percentage": 13
@@ -1015,7 +1015,7 @@
                     },
 {"name": "libraries/WiFi/examples/WPS",
                     "sizes": [{
-                            "flash_bytes": 875138,
+                            "flash_bytes": 875154,
                             "flash_percentage": 66,
                             "ram_bytes": 44664,
                             "ram_percentage": 13

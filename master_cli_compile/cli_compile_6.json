@@ -890,7 +890,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterHumiditySensor",
                     "sizes": [{
-                            "flash_bytes": 1636655,
+                            "flash_bytes": 1636647,
                             "flash_percentage": 52,
                             "ram_bytes": 94172,
                             "ram_percentage": 28
