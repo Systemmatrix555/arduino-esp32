@@ -92,7 +92,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1",
                     "sizes": [{
-                            "flash_bytes": 1009615,
+                            "flash_bytes": 1009599,
                             "flash_percentage": 77,
                             "ram_bytes": 51744,
                             "ram_percentage": 15
