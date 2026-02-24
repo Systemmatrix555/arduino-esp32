@@ -826,7 +826,7 @@
                     },
 {"name": "libraries/Update/examples/Signed_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 990296,
+                            "flash_bytes": 990288,
                             "flash_percentage": 75,
                             "ram_bytes": 42564,
                             "ram_percentage": 12

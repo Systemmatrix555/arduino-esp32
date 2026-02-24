@@ -842,7 +842,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterContactSensor",
                     "sizes": [{
-                            "flash_bytes": 1651820,
+                            "flash_bytes": 1651812,
                             "flash_percentage": 52,
                             "ram_bytes": 94348,
                             "ram_percentage": 28
