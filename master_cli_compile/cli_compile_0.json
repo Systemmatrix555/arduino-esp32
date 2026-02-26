@@ -467,7 +467,7 @@
                     },
 {"name": "libraries/BLE/examples/Beacon_Scanner",
                     "sizes": [{
-                            "flash_bytes": 738592,
+                            "flash_bytes": 738576,
                             "flash_percentage": 23,
                             "ram_bytes": 18232,
                             "ram_percentage": 5

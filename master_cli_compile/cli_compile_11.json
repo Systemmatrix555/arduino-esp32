@@ -794,7 +794,7 @@
                 "sketches": [
 {"name": "libraries/Update/examples/HTTP_Client_AES_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 907592,
+                            "flash_bytes": 907600,
                             "flash_percentage": 69,
                             "ram_bytes": 42116,
                             "ram_percentage": 12
