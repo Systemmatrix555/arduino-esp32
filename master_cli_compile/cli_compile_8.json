@@ -36,7 +36,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterOccupancySensor",
                     "sizes": [{
-                            "flash_bytes": 1736347,
+                            "flash_bytes": 1736331,
                             "flash_percentage": 55,
                             "ram_bytes": 108184,
                             "ram_percentage": 33
