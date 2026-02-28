@@ -818,7 +818,7 @@
                     },
 {"name": "libraries/Update/examples/OTAWebUpdater",
                     "sizes": [{
-                            "flash_bytes": 933212,
+                            "flash_bytes": 933220,
                             "flash_percentage": 71,
                             "ram_bytes": 44788,
                             "ram_percentage": 13
