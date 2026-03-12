@@ -991,7 +991,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterThermostat",
                     "sizes": [{
-                            "flash_bytes": 1853302,
+                            "flash_bytes": 1853286,
                             "flash_percentage": 58,
                             "ram_bytes": 108820,
                             "ram_percentage": 33
@@ -1071,7 +1071,7 @@
                     },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientShowPeerCredentials",
                     "sizes": [{
-                            "flash_bytes": 999990,
+                            "flash_bytes": 999974,
                             "flash_percentage": 76,
                             "ram_bytes": 46232,
                             "ram_percentage": 14
