@@ -1007,7 +1007,7 @@
                     },
 {"name": "libraries/ESP_SR/examples/Basic",
                     "sizes": [{
-                            "flash_bytes": 1429540,
+                            "flash_bytes": 1429832,
                             "flash_percentage": 45,
                             "ram_bytes": 34648,
                             "ram_percentage": 10
