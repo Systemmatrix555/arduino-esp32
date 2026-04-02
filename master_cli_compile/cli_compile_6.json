@@ -140,8 +140,8 @@
                     },
 {"name": "libraries/HTTPUpdateServer/examples/WebUpdater",
                     "sizes": [{
-                            "flash_bytes": 995988,
-                            "flash_percentage": 75,
+                            "flash_bytes": 996244,
+                            "flash_percentage": 76,
                             "ram_bytes": 49736,
                             "ram_percentage": 15
                             }]
@@ -209,7 +209,7 @@
                     },
 {"name": "libraries/HTTPUpdateServer/examples/WebUpdater",
                     "sizes": [{
-                            "flash_bytes": 1042703,
+                            "flash_bytes": 1042837,
                             "flash_percentage": 79,
                             "ram_bytes": 40068,
                             "ram_percentage": 12
@@ -999,7 +999,7 @@
                     },
 {"name": "libraries/HTTPUpdateServer/examples/WebUpdater",
                     "sizes": [{
-                            "flash_bytes": 970751,
+                            "flash_bytes": 970999,
                             "flash_percentage": 74,
                             "ram_bytes": 48944,
                             "ram_percentage": 14

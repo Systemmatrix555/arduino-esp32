@@ -430,7 +430,7 @@
                     },
 {"name": "libraries/NetBIOS/examples/ESP_NBNST",
                     "sizes": [{
-                            "flash_bytes": 993685,
+                            "flash_bytes": 993699,
                             "flash_percentage": 75,
                             "ram_bytes": 47604,
                             "ram_percentage": 14
@@ -765,7 +765,7 @@
                     },
 {"name": "libraries/HTTPUpdateServer/examples/WebUpdater",
                     "sizes": [{
-                            "flash_bytes": 903238,
+                            "flash_bytes": 903372,
                             "flash_percentage": 68,
                             "ram_bytes": 34296,
                             "ram_percentage": 10
@@ -834,7 +834,7 @@
                 "sketches": [
 {"name": "libraries/Matter/examples/MatterMinimum",
                     "sizes": [{
-                            "flash_bytes": 1659724,
+                            "flash_bytes": 1659716,
                             "flash_percentage": 52,
                             "ram_bytes": 94476,
                             "ram_percentage": 28
@@ -1079,7 +1079,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterPressureSensor",
                     "sizes": [{
-                            "flash_bytes": 1840950,
+                            "flash_bytes": 1840966,
                             "flash_percentage": 58,
                             "ram_bytes": 108692,
                             "ram_percentage": 33

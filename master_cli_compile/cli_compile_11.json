@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "libraries/WebServer/examples/AdvancedWebServer",
                     "sizes": [{
-                            "flash_bytes": 984339,
+                            "flash_bytes": 984351,
                             "flash_percentage": 75,
                             "ram_bytes": 49560,
                             "ram_percentage": 15
@@ -12,7 +12,7 @@
                     },
 {"name": "libraries/WebServer/examples/ChunkWriting",
                     "sizes": [{
-                            "flash_bytes": 978540,
+                            "flash_bytes": 978552,
                             "flash_percentage": 74,
                             "ram_bytes": 49456,
                             "ram_percentage": 15
@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/WebServer/examples/FSBrowser",
                     "sizes": [{
-                            "flash_bytes": 1027664,
+                            "flash_bytes": 1027676,
                             "flash_percentage": 78,
                             "ram_bytes": 49600,
                             "ram_percentage": 15
@@ -28,7 +28,7 @@
                     },
 {"name": "libraries/WebServer/examples/Filters",
                     "sizes": [{
-                            "flash_bytes": 984636,
+                            "flash_bytes": 984648,
                             "flash_percentage": 75,
                             "ram_bytes": 49456,
                             "ram_percentage": 15
@@ -36,7 +36,7 @@
                     },
 {"name": "libraries/WebServer/examples/HelloServer",
                     "sizes": [{
-                            "flash_bytes": 982860,
+                            "flash_bytes": 982872,
                             "flash_percentage": 74,
                             "ram_bytes": 49456,
                             "ram_percentage": 15
@@ -44,7 +44,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAdvancedAuth",
                     "sizes": [{
-                            "flash_bytes": 1005971,
+                            "flash_bytes": 1006219,
                             "flash_percentage": 76,
                             "ram_bytes": 51872,
                             "ram_percentage": 15
@@ -52,7 +52,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAuthCallback",
                     "sizes": [{
-                            "flash_bytes": 1006547,
+                            "flash_bytes": 1006803,
                             "flash_percentage": 76,
                             "ram_bytes": 52000,
                             "ram_percentage": 15
@@ -60,7 +60,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAuthCallbackInline",
                     "sizes": [{
-                            "flash_bytes": 1005987,
+                            "flash_bytes": 1006231,
                             "flash_percentage": 76,
                             "ram_bytes": 51888,
                             "ram_percentage": 15
@@ -68,7 +68,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuth",
                     "sizes": [{
-                            "flash_bytes": 1006007,
+                            "flash_bytes": 1006255,
                             "flash_percentage": 76,
                             "ram_bytes": 51840,
                             "ram_percentage": 15
@@ -76,7 +76,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1",
                     "sizes": [{
-                            "flash_bytes": 1013239,
+                            "flash_bytes": 1013495,
                             "flash_percentage": 77,
                             "ram_bytes": 51856,
                             "ram_percentage": 15
@@ -84,7 +84,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1orBearerToken",
                     "sizes": [{
-                            "flash_bytes": 1013939,
+                            "flash_bytes": 1014203,
                             "flash_percentage": 77,
                             "ram_bytes": 51872,
                             "ram_percentage": 15
@@ -92,7 +92,7 @@
                     },
 {"name": "libraries/WebServer/examples/Middleware",
                     "sizes": [{
-                            "flash_bytes": 968544,
+                            "flash_bytes": 968800,
                             "flash_percentage": 73,
                             "ram_bytes": 47192,
                             "ram_percentage": 14
@@ -100,7 +100,7 @@
                     },
 {"name": "libraries/WebServer/examples/MultiHomedServers",
                     "sizes": [{
-                            "flash_bytes": 985588,
+                            "flash_bytes": 985600,
                             "flash_percentage": 75,
                             "ram_bytes": 49048,
                             "ram_percentage": 14
@@ -108,7 +108,7 @@
                     },
 {"name": "libraries/WebServer/examples/PathArgServer",
                     "sizes": [{
-                            "flash_bytes": 1280717,
+                            "flash_bytes": 1280729,
                             "flash_percentage": 40,
                             "ram_bytes": 55780,
                             "ram_percentage": 17
@@ -116,7 +116,7 @@
                     },
 {"name": "libraries/WebServer/examples/SDWebServer",
                     "sizes": [{
-                            "flash_bytes": 1043390,
+                            "flash_bytes": 1043402,
                             "flash_percentage": 79,
                             "ram_bytes": 50036,
                             "ram_percentage": 15
@@ -124,7 +124,7 @@
                     },
 {"name": "libraries/WebServer/examples/SimpleAuthentification",
                     "sizes": [{
-                            "flash_bytes": 951064,
+                            "flash_bytes": 951076,
                             "flash_percentage": 72,
                             "ram_bytes": 47016,
                             "ram_percentage": 14
@@ -132,7 +132,7 @@
                     },
 {"name": "libraries/WebServer/examples/UploadHugeFile",
                     "sizes": [{
-                            "flash_bytes": 1294257,
+                            "flash_bytes": 1294269,
                             "flash_percentage": 41,
                             "ram_bytes": 53620,
                             "ram_percentage": 16
@@ -140,7 +140,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 1045510,
+                            "flash_bytes": 1045522,
                             "flash_percentage": 79,
                             "ram_bytes": 47764,
                             "ram_percentage": 14
@@ -153,7 +153,7 @@
                 "sketches": [
 {"name": "libraries/WebServer/examples/HelloServer",
                     "sizes": [{
-                            "flash_bytes": 1027255,
+                            "flash_bytes": 1027271,
                             "flash_percentage": 78,
                             "ram_bytes": 39796,
                             "ram_percentage": 12
@@ -161,7 +161,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAdvancedAuth",
                     "sizes": [{
-                            "flash_bytes": 1055041,
+                            "flash_bytes": 1055175,
                             "flash_percentage": 80,
                             "ram_bytes": 42100,
                             "ram_percentage": 12
@@ -169,7 +169,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAuthCallback",
                     "sizes": [{
-                            "flash_bytes": 1055717,
+                            "flash_bytes": 1055851,
                             "flash_percentage": 80,
                             "ram_bytes": 42228,
                             "ram_percentage": 12
@@ -177,7 +177,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAuthCallbackInline",
                     "sizes": [{
-                            "flash_bytes": 1055029,
+                            "flash_bytes": 1055163,
                             "flash_percentage": 80,
                             "ram_bytes": 42116,
                             "ram_percentage": 12
@@ -185,7 +185,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuth",
                     "sizes": [{
-                            "flash_bytes": 1055079,
+                            "flash_bytes": 1055213,
                             "flash_percentage": 80,
                             "ram_bytes": 42076,
                             "ram_percentage": 12
@@ -193,7 +193,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1",
                     "sizes": [{
-                            "flash_bytes": 1064237,
+                            "flash_bytes": 1064371,
                             "flash_percentage": 81,
                             "ram_bytes": 42092,
                             "ram_percentage": 12
@@ -201,7 +201,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1orBearerToken",
                     "sizes": [{
-                            "flash_bytes": 1064923,
+                            "flash_bytes": 1065057,
                             "flash_percentage": 81,
                             "ram_bytes": 42124,
                             "ram_percentage": 12
@@ -209,7 +209,7 @@
                     },
 {"name": "libraries/WebServer/examples/Middleware",
                     "sizes": [{
-                            "flash_bytes": 995297,
+                            "flash_bytes": 995431,
                             "flash_percentage": 75,
                             "ram_bytes": 36752,
                             "ram_percentage": 11
@@ -217,7 +217,7 @@
                     },
 {"name": "libraries/WebServer/examples/MultiHomedServers",
                     "sizes": [{
-                            "flash_bytes": 1030263,
+                            "flash_bytes": 1030279,
                             "flash_percentage": 78,
                             "ram_bytes": 39396,
                             "ram_percentage": 12
@@ -225,7 +225,7 @@
                     },
 {"name": "libraries/WebServer/examples/PathArgServer",
                     "sizes": [{
-                            "flash_bytes": 1305457,
+                            "flash_bytes": 1305473,
                             "flash_percentage": 41,
                             "ram_bytes": 44352,
                             "ram_percentage": 13
@@ -233,7 +233,7 @@
                     },
 {"name": "libraries/WebServer/examples/SDWebServer",
                     "sizes": [{
-                            "flash_bytes": 1094915,
+                            "flash_bytes": 1094931,
                             "flash_percentage": 83,
                             "ram_bytes": 40068,
                             "ram_percentage": 12
@@ -241,7 +241,7 @@
                     },
 {"name": "libraries/WebServer/examples/SimpleAuthentification",
                     "sizes": [{
-                            "flash_bytes": 974393,
+                            "flash_bytes": 974409,
                             "flash_percentage": 74,
                             "ram_bytes": 36576,
                             "ram_percentage": 11
@@ -249,7 +249,7 @@
                     },
 {"name": "libraries/WebServer/examples/UploadHugeFile",
                     "sizes": [{
-                            "flash_bytes": 1337617,
+                            "flash_bytes": 1337633,
                             "flash_percentage": 42,
                             "ram_bytes": 42828,
                             "ram_percentage": 13
@@ -257,7 +257,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 1083305,
+                            "flash_bytes": 1083321,
                             "flash_percentage": 82,
                             "ram_bytes": 37024,
                             "ram_percentage": 11
@@ -265,7 +265,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebUpdate",
                     "sizes": [{
-                            "flash_bytes": 1039237,
+                            "flash_bytes": 1039371,
                             "flash_percentage": 79,
                             "ram_bytes": 40036,
                             "ram_percentage": 12
@@ -294,7 +294,7 @@
                 "sketches": [
 {"name": "libraries/WebServer/examples/UploadHugeFile",
                     "sizes": [{
-                            "flash_bytes": 1403289,
+                            "flash_bytes": 1403305,
                             "flash_percentage": 44,
                             "ram_bytes": 54872,
                             "ram_percentage": 16
@@ -302,7 +302,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 1149591,
+                            "flash_bytes": 1149607,
                             "flash_percentage": 87,
                             "ram_bytes": 49668,
                             "ram_percentage": 15
@@ -310,7 +310,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebUpdate",
                     "sizes": [{
-                            "flash_bytes": 1104039,
+                            "flash_bytes": 1104173,
                             "flash_percentage": 84,
                             "ram_bytes": 52056,
                             "ram_percentage": 15
@@ -451,7 +451,7 @@
                 "sketches": [
 {"name": "libraries/WebServer/examples/SDWebServer",
                     "sizes": [{
-                            "flash_bytes": 1107536,
+                            "flash_bytes": 1107552,
                             "flash_percentage": 84,
                             "ram_bytes": 45928,
                             "ram_percentage": 14
@@ -459,7 +459,7 @@
                     },
 {"name": "libraries/WebServer/examples/SimpleAuthentification",
                     "sizes": [{
-                            "flash_bytes": 996870,
+                            "flash_bytes": 996886,
                             "flash_percentage": 76,
                             "ram_bytes": 42420,
                             "ram_percentage": 12
@@ -467,7 +467,7 @@
                     },
 {"name": "libraries/WebServer/examples/UploadHugeFile",
                     "sizes": [{
-                            "flash_bytes": 1343158,
+                            "flash_bytes": 1343174,
                             "flash_percentage": 42,
                             "ram_bytes": 48696,
                             "ram_percentage": 14
@@ -475,7 +475,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 1096302,
+                            "flash_bytes": 1096318,
                             "flash_percentage": 83,
                             "ram_bytes": 42884,
                             "ram_percentage": 13
@@ -483,7 +483,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebUpdate",
                     "sizes": [{
-                            "flash_bytes": 1061428,
+                            "flash_bytes": 1061562,
                             "flash_percentage": 80,
                             "ram_bytes": 45880,
                             "ram_percentage": 14
@@ -749,7 +749,7 @@
                     },
 {"name": "libraries/Update/examples/HTTP_Server_AES_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 911286,
+                            "flash_bytes": 911420,
                             "flash_percentage": 69,
                             "ram_bytes": 34336,
                             "ram_percentage": 10
@@ -757,7 +757,7 @@
                     },
 {"name": "libraries/Update/examples/OTAWebUpdater",
                     "sizes": [{
-                            "flash_bytes": 903512,
+                            "flash_bytes": 903646,
                             "flash_percentage": 68,
                             "ram_bytes": 34248,
                             "ram_percentage": 10
@@ -781,7 +781,7 @@
                     },
 {"name": "libraries/WebServer/examples/AdvancedWebServer",
                     "sizes": [{
-                            "flash_bytes": 881868,
+                            "flash_bytes": 881884,
                             "flash_percentage": 67,
                             "ram_bytes": 33880,
                             "ram_percentage": 10
@@ -789,7 +789,7 @@
                     },
 {"name": "libraries/WebServer/examples/ChunkWriting",
                     "sizes": [{
-                            "flash_bytes": 880014,
+                            "flash_bytes": 880030,
                             "flash_percentage": 67,
                             "ram_bytes": 33880,
                             "ram_percentage": 10
@@ -797,7 +797,7 @@
                     },
 {"name": "libraries/WebServer/examples/FSBrowser",
                     "sizes": [{
-                            "flash_bytes": 937946,
+                            "flash_bytes": 937962,
                             "flash_percentage": 71,
                             "ram_bytes": 34480,
                             "ram_percentage": 10
@@ -805,7 +805,7 @@
                     },
 {"name": "libraries/WebServer/examples/Filters",
                     "sizes": [{
-                            "flash_bytes": 882648,
+                            "flash_bytes": 882664,
                             "flash_percentage": 67,
                             "ram_bytes": 33944,
                             "ram_percentage": 10
@@ -813,7 +813,7 @@
                     },
 {"name": "libraries/WebServer/examples/HelloServer",
                     "sizes": [{
-                            "flash_bytes": 880648,
+                            "flash_bytes": 880664,
                             "flash_percentage": 67,
                             "ram_bytes": 33880,
                             "ram_percentage": 10
@@ -821,7 +821,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAdvancedAuth",
                     "sizes": [{
-                            "flash_bytes": 915698,
+                            "flash_bytes": 915832,
                             "flash_percentage": 69,
                             "ram_bytes": 36328,
                             "ram_percentage": 11
@@ -842,7 +842,7 @@
                     },
 {"name": "libraries/Update/examples/HTTP_Server_AES_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 941120,
+                            "flash_bytes": 941400,
                             "flash_percentage": 71,
                             "ram_bytes": 44892,
                             "ram_percentage": 13
@@ -850,7 +850,7 @@
                     },
 {"name": "libraries/Update/examples/OTAWebUpdater",
                     "sizes": [{
-                            "flash_bytes": 933724,
+                            "flash_bytes": 933976,
                             "flash_percentage": 71,
                             "ram_bytes": 44796,
                             "ram_percentage": 13
@@ -874,7 +874,7 @@
                     },
 {"name": "libraries/WebServer/examples/AdvancedWebServer",
                     "sizes": [{
-                            "flash_bytes": 919980,
+                            "flash_bytes": 919996,
                             "flash_percentage": 70,
                             "ram_bytes": 44604,
                             "ram_percentage": 13
@@ -882,7 +882,7 @@
                     },
 {"name": "libraries/WebServer/examples/ChunkWriting",
                     "sizes": [{
-                            "flash_bytes": 899651,
+                            "flash_bytes": 899667,
                             "flash_percentage": 68,
                             "ram_bytes": 44372,
                             "ram_percentage": 13
@@ -890,7 +890,7 @@
                     },
 {"name": "libraries/WebServer/examples/FSBrowser",
                     "sizes": [{
-                            "flash_bytes": 947167,
+                            "flash_bytes": 947183,
                             "flash_percentage": 72,
                             "ram_bytes": 44564,
                             "ram_percentage": 13
@@ -898,7 +898,7 @@
                     },
 {"name": "libraries/WebServer/examples/Filters",
                     "sizes": [{
-                            "flash_bytes": 920288,
+                            "flash_bytes": 920304,
                             "flash_percentage": 70,
                             "ram_bytes": 44604,
                             "ram_percentage": 13
@@ -906,7 +906,7 @@
                     },
 {"name": "libraries/WebServer/examples/HelloServer",
                     "sizes": [{
-                            "flash_bytes": 918520,
+                            "flash_bytes": 918536,
                             "flash_percentage": 70,
                             "ram_bytes": 44604,
                             "ram_percentage": 13
@@ -914,7 +914,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAdvancedAuth",
                     "sizes": [{
-                            "flash_bytes": 942132,
+                            "flash_bytes": 942420,
                             "flash_percentage": 71,
                             "ram_bytes": 46868,
                             "ram_percentage": 14
@@ -922,7 +922,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAuthCallback",
                     "sizes": [{
-                            "flash_bytes": 942764,
+                            "flash_bytes": 943048,
                             "flash_percentage": 71,
                             "ram_bytes": 46996,
                             "ram_percentage": 14
@@ -930,7 +930,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAuthCallbackInline",
                     "sizes": [{
-                            "flash_bytes": 942156,
+                            "flash_bytes": 942432,
                             "flash_percentage": 71,
                             "ram_bytes": 46884,
                             "ram_percentage": 14
@@ -938,7 +938,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuth",
                     "sizes": [{
-                            "flash_bytes": 942180,
+                            "flash_bytes": 942468,
                             "flash_percentage": 71,
                             "ram_bytes": 46852,
                             "ram_percentage": 14
@@ -946,7 +946,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1",
                     "sizes": [{
-                            "flash_bytes": 949824,
+                            "flash_bytes": 950092,
                             "flash_percentage": 72,
                             "ram_bytes": 46868,
                             "ram_percentage": 14
@@ -954,7 +954,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1orBearerToken",
                     "sizes": [{
-                            "flash_bytes": 950512,
+                            "flash_bytes": 950788,
                             "flash_percentage": 72,
                             "ram_bytes": 46884,
                             "ram_percentage": 14
@@ -962,7 +962,7 @@
                     },
 {"name": "libraries/WebServer/examples/Middleware",
                     "sizes": [{
-                            "flash_bytes": 890343,
+                            "flash_bytes": 890607,
                             "flash_percentage": 67,
                             "ram_bytes": 42116,
                             "ram_percentage": 12
@@ -999,7 +999,7 @@
                     },
 {"name": "libraries/Update/examples/HTTP_Server_AES_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 979631,
+                            "flash_bytes": 979895,
                             "flash_percentage": 74,
                             "ram_bytes": 49008,
                             "ram_percentage": 14
@@ -1007,7 +1007,7 @@
                     },
 {"name": "libraries/Update/examples/OTAWebUpdater",
                     "sizes": [{
-                            "flash_bytes": 972139,
+                            "flash_bytes": 972403,
                             "flash_percentage": 74,
                             "ram_bytes": 48912,
                             "ram_percentage": 14
@@ -1031,7 +1031,7 @@
                     },
 {"name": "libraries/WebServer/examples/AdvancedWebServer",
                     "sizes": [{
-                            "flash_bytes": 958315,
+                            "flash_bytes": 958331,
                             "flash_percentage": 73,
                             "ram_bytes": 48688,
                             "ram_percentage": 14
@@ -1039,7 +1039,7 @@
                     },
 {"name": "libraries/WebServer/examples/ChunkWriting",
                     "sizes": [{
-                            "flash_bytes": 931950,
+                            "flash_bytes": 931966,
                             "flash_percentage": 71,
                             "ram_bytes": 48472,
                             "ram_percentage": 14
@@ -1047,7 +1047,7 @@
                     },
 {"name": "libraries/WebServer/examples/FSBrowser",
                     "sizes": [{
-                            "flash_bytes": 981986,
+                            "flash_bytes": 982002,
                             "flash_percentage": 74,
                             "ram_bytes": 48832,
                             "ram_percentage": 14
@@ -1055,7 +1055,7 @@
                     },
 {"name": "libraries/WebServer/examples/Filters",
                     "sizes": [{
-                            "flash_bytes": 958811,
+                            "flash_bytes": 958827,
                             "flash_percentage": 73,
                             "ram_bytes": 48704,
                             "ram_percentage": 14
@@ -1063,7 +1063,7 @@
                     },
 {"name": "libraries/WebServer/examples/HelloServer",
                     "sizes": [{
-                            "flash_bytes": 957095,
+                            "flash_bytes": 957111,
                             "flash_percentage": 73,
                             "ram_bytes": 48688,
                             "ram_percentage": 14
@@ -1071,7 +1071,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAdvancedAuth",
                     "sizes": [{
-                            "flash_bytes": 980259,
+                            "flash_bytes": 980499,
                             "flash_percentage": 74,
                             "ram_bytes": 50976,
                             "ram_percentage": 15
@@ -1079,7 +1079,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAuthCallback",
                     "sizes": [{
-                            "flash_bytes": 980827,
+                            "flash_bytes": 981087,
                             "flash_percentage": 74,
                             "ram_bytes": 51104,
                             "ram_percentage": 15
@@ -1087,7 +1087,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAuthCallbackInline",
                     "sizes": [{
-                            "flash_bytes": 980275,
+                            "flash_bytes": 980519,
                             "flash_percentage": 74,
                             "ram_bytes": 50992,
                             "ram_percentage": 15
@@ -1095,7 +1095,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuth",
                     "sizes": [{
-                            "flash_bytes": 980275,
+                            "flash_bytes": 980515,
                             "flash_percentage": 74,
                             "ram_bytes": 50944,
                             "ram_percentage": 15
@@ -1103,7 +1103,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1",
                     "sizes": [{
-                            "flash_bytes": 987419,
+                            "flash_bytes": 987667,
                             "flash_percentage": 75,
                             "ram_bytes": 50960,
                             "ram_percentage": 15
@@ -1111,7 +1111,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1orBearerToken",
                     "sizes": [{
-                            "flash_bytes": 988087,
+                            "flash_bytes": 988335,
                             "flash_percentage": 75,
                             "ram_bytes": 50984,
                             "ram_percentage": 15
@@ -1119,7 +1119,7 @@
                     },
 {"name": "libraries/WebServer/examples/Middleware",
                     "sizes": [{
-                            "flash_bytes": 922210,
+                            "flash_bytes": 922486,
                             "flash_percentage": 70,
                             "ram_bytes": 46208,
                             "ram_percentage": 14

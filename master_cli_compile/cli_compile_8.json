@@ -273,7 +273,7 @@
                     },
 {"name": "libraries/NetBIOS/examples/ESP_NBNST",
                     "sizes": [{
-                            "flash_bytes": 927529,
+                            "flash_bytes": 927543,
                             "flash_percentage": 70,
                             "ram_bytes": 34968,
                             "ram_percentage": 10
@@ -451,7 +451,7 @@
                 "sketches": [
 {"name": "libraries/NetBIOS/examples/ESP_NBNST",
                     "sizes": [{
-                            "flash_bytes": 949614,
+                            "flash_bytes": 949630,
                             "flash_percentage": 72,
                             "ram_bytes": 40812,
                             "ram_percentage": 12
@@ -725,7 +725,7 @@
                     },
 {"name": "libraries/NetBIOS/examples/ESP_NBNST",
                     "sizes": [{
-                            "flash_bytes": 794944,
+                            "flash_bytes": 794958,
                             "flash_percentage": 60,
                             "ram_bytes": 29856,
                             "ram_percentage": 9
@@ -850,7 +850,7 @@
                     },
 {"name": "libraries/NetBIOS/examples/ESP_NBNST",
                     "sizes": [{
-                            "flash_bytes": 828203,
+                            "flash_bytes": 828219,
                             "flash_percentage": 63,
                             "ram_bytes": 40324,
                             "ram_percentage": 12
@@ -1031,7 +1031,7 @@
                     },
 {"name": "libraries/NetBIOS/examples/ESP_NBNST",
                     "sizes": [{
-                            "flash_bytes": 860454,
+                            "flash_bytes": 860470,
                             "flash_percentage": 65,
                             "ram_bytes": 44424,
                             "ram_percentage": 13

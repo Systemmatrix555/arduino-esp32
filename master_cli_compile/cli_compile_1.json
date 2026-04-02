@@ -265,7 +265,7 @@
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 979271,
+                            "flash_bytes": 979287,
                             "flash_percentage": 74,
                             "ram_bytes": 36704,
                             "ram_percentage": 11
@@ -390,7 +390,7 @@
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 1045601,
+                            "flash_bytes": 1045617,
                             "flash_percentage": 79,
                             "ram_bytes": 49332,
                             "ram_percentage": 15
@@ -547,7 +547,7 @@
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 1001792,
+                            "flash_bytes": 1001808,
                             "flash_percentage": 76,
                             "ram_bytes": 42548,
                             "ram_percentage": 12
@@ -1079,7 +1079,7 @@
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 909326,
+                            "flash_bytes": 909342,
                             "flash_percentage": 69,
                             "ram_bytes": 46152,
                             "ram_percentage": 14

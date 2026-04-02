@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 955444,
+                            "flash_bytes": 955456,
                             "flash_percentage": 72,
                             "ram_bytes": 47136,
                             "ram_percentage": 14
@@ -717,7 +717,7 @@
                 "sketches": [
 {"name": "libraries/DNSServer/examples/CaptivePortal",
                     "sizes": [{
-                            "flash_bytes": 851916,
+                            "flash_bytes": 851932,
                             "flash_percentage": 64,
                             "ram_bytes": 31604,
                             "ram_percentage": 9
