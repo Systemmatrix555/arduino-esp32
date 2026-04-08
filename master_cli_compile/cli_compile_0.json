@@ -842,7 +842,7 @@
                     },
 {"name": "libraries/ArduinoOTA/examples/SignedOTA",
                     "sizes": [{
-                            "flash_bytes": 910380,
+                            "flash_bytes": 910372,
                             "flash_percentage": 69,
                             "ram_bytes": 46468,
                             "ram_percentage": 14

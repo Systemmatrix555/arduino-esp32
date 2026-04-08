@@ -451,7 +451,7 @@
                 "sketches": [
 {"name": "libraries/Matter/examples/MatterMinimum",
                     "sizes": [{
-                            "flash_bytes": 2605652,
+                            "flash_bytes": 2605644,
                             "flash_percentage": 82,
                             "ram_bytes": 139740,
                             "ram_percentage": 42

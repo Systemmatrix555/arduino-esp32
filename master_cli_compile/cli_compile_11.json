@@ -28,7 +28,7 @@
                     },
 {"name": "libraries/WebServer/examples/Filters",
                     "sizes": [{
-                            "flash_bytes": 984648,
+                            "flash_bytes": 984632,
                             "flash_percentage": 75,
                             "ram_bytes": 49456,
                             "ram_percentage": 15
@@ -938,7 +938,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuth",
                     "sizes": [{
-                            "flash_bytes": 942468,
+                            "flash_bytes": 942460,
                             "flash_percentage": 71,
                             "ram_bytes": 46852,
                             "ram_percentage": 14
