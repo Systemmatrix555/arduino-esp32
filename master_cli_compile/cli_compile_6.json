@@ -60,7 +60,7 @@
                     },
 {"name": "libraries/HTTPClient/examples/Authorization",
                     "sizes": [{
-                            "flash_bytes": 1075760,
+                            "flash_bytes": 1075744,
                             "flash_percentage": 82,
                             "ram_bytes": 48656,
                             "ram_percentage": 14
