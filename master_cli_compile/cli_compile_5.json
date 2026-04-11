@@ -124,7 +124,7 @@
                     },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Serial",
                     "sizes": [{
-                            "flash_bytes": 915224,
+                            "flash_bytes": 915208,
                             "flash_percentage": 69,
                             "ram_bytes": 45640,
                             "ram_percentage": 13
