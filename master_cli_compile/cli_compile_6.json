@@ -922,7 +922,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterDimmablePlugin",
                     "sizes": [{
-                            "flash_bytes": 1668564,
+                            "flash_bytes": 1668556,
                             "flash_percentage": 53,
                             "ram_bytes": 94500,
                             "ram_percentage": 28
