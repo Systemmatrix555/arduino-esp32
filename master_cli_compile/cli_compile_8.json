@@ -834,7 +834,7 @@
                 "sketches": [
 {"name": "libraries/Matter/examples/MatterWaterLeakDetector",
                     "sizes": [{
-                            "flash_bytes": 1654620,
+                            "flash_bytes": 1654612,
                             "flash_percentage": 52,
                             "ram_bytes": 94452,
                             "ram_percentage": 28
@@ -1023,7 +1023,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterWindowCovering",
                     "sizes": [{
-                            "flash_bytes": 1878111,
+                            "flash_bytes": 1878095,
                             "flash_percentage": 59,
                             "ram_bytes": 109116,
                             "ram_percentage": 33
