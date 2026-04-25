@@ -92,7 +92,7 @@
                     },
 {"name": "libraries/ESP_I2S/examples/ES8388_loopback",
                     "sizes": [{
-                            "flash_bytes": 351036,
+                            "flash_bytes": 350992,
                             "flash_percentage": 26,
                             "ram_bytes": 23708,
                             "ram_percentage": 7
@@ -100,7 +100,7 @@
                     },
 {"name": "libraries/ESP_I2S/examples/Record_to_WAV",
                     "sizes": [{
-                            "flash_bytes": 398346,
+                            "flash_bytes": 398318,
                             "flash_percentage": 30,
                             "ram_bytes": 23056,
                             "ram_percentage": 7
@@ -108,7 +108,7 @@
                     },
 {"name": "libraries/ESP_I2S/examples/Simple_tone",
                     "sizes": [{
-                            "flash_bytes": 317996,
+                            "flash_bytes": 317952,
                             "flash_percentage": 24,
                             "ram_bytes": 22420,
                             "ram_percentage": 6
@@ -140,7 +140,7 @@
                     },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Serial",
                     "sizes": [{
-                            "flash_bytes": 915780,
+                            "flash_bytes": 915796,
                             "flash_percentage": 69,
                             "ram_bytes": 45640,
                             "ram_percentage": 13
@@ -161,7 +161,7 @@
                     },
 {"name": "libraries/ESP_I2S/examples/ES8388_loopback",
                     "sizes": [{
-                            "flash_bytes": 362742,
+                            "flash_bytes": 362722,
                             "flash_percentage": 27,
                             "ram_bytes": 14976,
                             "ram_percentage": 4
@@ -169,7 +169,7 @@
                     },
 {"name": "libraries/ESP_I2S/examples/Simple_tone",
                     "sizes": [{
-                            "flash_bytes": 306104,
+                            "flash_bytes": 306084,
                             "flash_percentage": 23,
                             "ram_bytes": 13292,
                             "ram_percentage": 4
@@ -1007,7 +1007,7 @@
                     },
 {"name": "libraries/ESP_SR/examples/Basic",
                     "sizes": [{
-                            "flash_bytes": 1429936,
+                            "flash_bytes": 1429896,
                             "flash_percentage": 45,
                             "ram_bytes": 34648,
                             "ram_percentage": 10
@@ -1047,7 +1047,7 @@
                     },
 {"name": "libraries/Ethernet/examples/ETH_WIFI_BRIDGE",
                     "sizes": [{
-                            "flash_bytes": 975883,
+                            "flash_bytes": 975867,
                             "flash_percentage": 74,
                             "ram_bytes": 45108,
                             "ram_percentage": 13
@@ -1103,7 +1103,7 @@
                     },
 {"name": "libraries/HTTPClient/examples/HTTPClientEnterprise",
                     "sizes": [{
-                            "flash_bytes": 1053886,
+                            "flash_bytes": 1053870,
                             "flash_percentage": 33,
                             "ram_bytes": 47880,
                             "ram_percentage": 14
