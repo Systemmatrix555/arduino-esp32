@@ -914,7 +914,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSecure",
                     "sizes": [{
-                            "flash_bytes": 1042504,
+                            "flash_bytes": 1042496,
                             "flash_percentage": 33,
                             "ram_bytes": 42988,
                             "ram_percentage": 13
@@ -1047,7 +1047,7 @@
                     },
 {"name": "libraries/Ethernet/examples/ETH_WIFI_BRIDGE",
                     "sizes": [{
-                            "flash_bytes": 975867,
+                            "flash_bytes": 975883,
                             "flash_percentage": 74,
                             "ram_bytes": 45108,
                             "ram_percentage": 13
@@ -1103,7 +1103,7 @@
                     },
 {"name": "libraries/HTTPClient/examples/HTTPClientEnterprise",
                     "sizes": [{
-                            "flash_bytes": 1053870,
+                            "flash_bytes": 1053886,
                             "flash_percentage": 33,
                             "ram_bytes": 47880,
                             "ram_percentage": 14
