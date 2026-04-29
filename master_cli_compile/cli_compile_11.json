@@ -999,7 +999,7 @@
                     },
 {"name": "libraries/Update/examples/OTAWebUpdater",
                     "sizes": [{
-                            "flash_bytes": 972975,
+                            "flash_bytes": 972991,
                             "flash_percentage": 74,
                             "ram_bytes": 48912,
                             "ram_percentage": 14
@@ -1031,7 +1031,7 @@
                     },
 {"name": "libraries/WebServer/examples/ChunkWriting",
                     "sizes": [{
-                            "flash_bytes": 932530,
+                            "flash_bytes": 932514,
                             "flash_percentage": 71,
                             "ram_bytes": 48472,
                             "ram_percentage": 14
