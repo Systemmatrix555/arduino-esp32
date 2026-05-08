@@ -906,7 +906,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterSimpleBlinds",
                     "sizes": [{
-                            "flash_bytes": 1645803,
+                            "flash_bytes": 1645811,
                             "flash_percentage": 52,
                             "ram_bytes": 94380,
                             "ram_percentage": 28
