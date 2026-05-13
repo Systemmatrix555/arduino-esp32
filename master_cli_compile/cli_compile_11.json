@@ -914,7 +914,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAdvancedAuth",
                     "sizes": [{
-                            "flash_bytes": 942776,
+                            "flash_bytes": 942768,
                             "flash_percentage": 71,
                             "ram_bytes": 46868,
                             "ram_percentage": 14

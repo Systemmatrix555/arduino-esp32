@@ -898,7 +898,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterRainSensor",
                     "sizes": [{
-                            "flash_bytes": 1654340,
+                            "flash_bytes": 1654332,
                             "flash_percentage": 52,
                             "ram_bytes": 94452,
                             "ram_percentage": 28
