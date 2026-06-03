@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "libraries/ArduinoOTA/examples/BasicOTA",
                 "sizes": [{
-                        "flash_bytes": 970919,
+                        "flash_bytes": 970903,
                         "flash_percentage": 74,
                         "ram_bytes": 51432,
                         "ram_percentage": 16
@@ -699,6 +699,14 @@
                         "flash_bytes": 715255,
                         "flash_percentage": 23,
                         "ram_bytes": 16628,
+                        "ram_percentage": 5
+                        }]
+                },
+{"name": "libraries/BLE/examples/Server_multiconnect",
+                "sizes": [{
+                        "flash_bytes": 706487,
+                        "flash_percentage": 22,
+                        "ram_bytes": 16612,
                         "ram_percentage": 5
                         }]
                 }
