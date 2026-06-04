@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "libraries/ArduinoOTA/examples/BasicOTA",
                 "sizes": [{
-                        "flash_bytes": 970903,
+                        "flash_bytes": 970919,
                         "flash_percentage": 74,
                         "ram_bytes": 51432,
                         "ram_percentage": 16
