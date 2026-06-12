@@ -1007,7 +1007,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterTemperatureControlledCabinet",
                 "sizes": [{
-                        "flash_bytes": 1838634,
+                        "flash_bytes": 1838650,
                         "flash_percentage": 58,
                         "ram_bytes": 92944,
                         "ram_percentage": 28
@@ -1031,7 +1031,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterTemperatureSensor",
                 "sizes": [{
-                        "flash_bytes": 1837086,
+                        "flash_bytes": 1837102,
                         "flash_percentage": 58,
                         "ram_bytes": 92888,
                         "ram_percentage": 28
