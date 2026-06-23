@@ -52,7 +52,7 @@
                 },
 {"name": "libraries/WebServer/examples/ChunkWriting",
                 "sizes": [{
-                        "flash_bytes": 979612,
+                        "flash_bytes": 979628,
                         "flash_percentage": 75,
                         "ram_bytes": 49464,
                         "ram_percentage": 15
@@ -116,7 +116,7 @@
                 },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1",
                 "sizes": [{
-                        "flash_bytes": 1015551,
+                        "flash_bytes": 1015567,
                         "flash_percentage": 77,
                         "ram_bytes": 51888,
                         "ram_percentage": 16
@@ -717,7 +717,7 @@
                 "sketches": [
 {"name": "libraries/USB/examples/SystemControl",
                 "sizes": [{
-                        "flash_bytes": 371122,
+                        "flash_bytes": 371152,
                         "flash_percentage": 28,
                         "ram_bytes": 73108,
                         "ram_percentage": 22
@@ -741,7 +741,7 @@
                 },
 {"name": "libraries/USB/examples/USBVendor",
                 "sizes": [{
-                        "flash_bytes": 392460,
+                        "flash_bytes": 392490,
                         "flash_percentage": 30,
                         "ram_bytes": 73168,
                         "ram_percentage": 22
