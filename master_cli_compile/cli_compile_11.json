@@ -1047,7 +1047,7 @@
                 },
 {"name": "libraries/Update/examples/HTTP_Client_AES_OTA_Update",
                 "sizes": [{
-                        "flash_bytes": 953515,
+                        "flash_bytes": 953499,
                         "flash_percentage": 73,
                         "ram_bytes": 46328,
                         "ram_percentage": 14
