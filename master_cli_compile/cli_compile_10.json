@@ -76,7 +76,7 @@
                 },
 {"name": "libraries/SD_MMC/examples/SDMMC_time",
                 "sizes": [{
-                        "flash_bytes": 1000042,
+                        "flash_bytes": 1000058,
                         "flash_percentage": 76,
                         "ram_bytes": 47492,
                         "ram_percentage": 14
@@ -140,7 +140,7 @@
                 },
 {"name": "libraries/Update/examples/AWS_S3_OTA_Update",
                 "sizes": [{
-                        "flash_bytes": 928640,
+                        "flash_bytes": 928656,
                         "flash_percentage": 71,
                         "ram_bytes": 46896,
                         "ram_percentage": 14

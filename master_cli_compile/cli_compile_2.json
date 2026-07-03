@@ -12,7 +12,7 @@
                 },
 {"name": "libraries/Console/examples/ConsoleWiFi",
                 "sizes": [{
-                        "flash_bytes": 955800,
+                        "flash_bytes": 955816,
                         "flash_percentage": 73,
                         "ram_bytes": 46840,
                         "ram_percentage": 14

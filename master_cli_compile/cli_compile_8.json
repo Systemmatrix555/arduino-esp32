@@ -874,7 +874,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterTemperatureLight",
                 "sizes": [{
-                        "flash_bytes": 1716972,
+                        "flash_bytes": 1716964,
                         "flash_percentage": 55,
                         "ram_bytes": 89004,
                         "ram_percentage": 27
@@ -898,7 +898,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterWaterFreezeDetector",
                 "sizes": [{
-                        "flash_bytes": 1694604,
+                        "flash_bytes": 1694596,
                         "flash_percentage": 54,
                         "ram_bytes": 88916,
                         "ram_percentage": 27
@@ -914,7 +914,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterWindowCovering",
                 "sizes": [{
-                        "flash_bytes": 1707972,
+                        "flash_bytes": 1707964,
                         "flash_percentage": 54,
                         "ram_bytes": 89068,
                         "ram_percentage": 27
@@ -946,7 +946,7 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecure",
                 "sizes": [{
-                        "flash_bytes": 930635,
+                        "flash_bytes": 930627,
                         "flash_percentage": 30,
                         "ram_bytes": 42140,
                         "ram_percentage": 13
