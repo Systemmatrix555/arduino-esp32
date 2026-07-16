@@ -1015,7 +1015,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterCommissionTest",
                 "sizes": [{
-                        "flash_bytes": 1894652,
+                        "flash_bytes": 1894668,
                         "flash_percentage": 60,
                         "ram_bytes": 108732,
                         "ram_percentage": 33
@@ -1023,7 +1023,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterComposedLights",
                 "sizes": [{
-                        "flash_bytes": 1922748,
+                        "flash_bytes": 1922764,
                         "flash_percentage": 61,
                         "ram_bytes": 108956,
                         "ram_percentage": 33
@@ -1031,7 +1031,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterContactSensor",
                 "sizes": [{
-                        "flash_bytes": 1919165,
+                        "flash_bytes": 1919181,
                         "flash_percentage": 61,
                         "ram_bytes": 108940,
                         "ram_percentage": 33
@@ -1039,7 +1039,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterDimmableLight",
                 "sizes": [{
-                        "flash_bytes": 1929489,
+                        "flash_bytes": 1929505,
                         "flash_percentage": 61,
                         "ram_bytes": 108996,
                         "ram_percentage": 33
@@ -1079,7 +1079,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterFan",
                 "sizes": [{
-                        "flash_bytes": 1934433,
+                        "flash_bytes": 1934449,
                         "flash_percentage": 61,
                         "ram_bytes": 109396,
                         "ram_percentage": 33
@@ -1119,7 +1119,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterOccupancySensor",
                 "sizes": [{
-                        "flash_bytes": 1899008,
+                        "flash_bytes": 1899024,
                         "flash_percentage": 60,
                         "ram_bytes": 108788,
                         "ram_percentage": 33
@@ -1127,7 +1127,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterOccupancyWithHoldTime",
                 "sizes": [{
-                        "flash_bytes": 1902448,
+                        "flash_bytes": 1902464,
                         "flash_percentage": 60,
                         "ram_bytes": 108804,
                         "ram_percentage": 33
