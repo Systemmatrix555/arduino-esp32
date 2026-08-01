@@ -1047,7 +1047,7 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecureProtocolUpgrade",
                 "sizes": [{
-                        "flash_bytes": 949630,
+                        "flash_bytes": 949614,
                         "flash_percentage": 72,
                         "ram_bytes": 46460,
                         "ram_percentage": 14
@@ -1063,7 +1063,7 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientTrustOnFirstUse",
                 "sizes": [{
-                        "flash_bytes": 961382,
+                        "flash_bytes": 961366,
                         "flash_percentage": 73,
                         "ram_bytes": 46532,
                         "ram_percentage": 14
@@ -1143,7 +1143,7 @@
                 },
 {"name": "libraries/SD/examples/SD_time",
                 "sizes": [{
-                        "flash_bytes": 936567,
+                        "flash_bytes": 936551,
                         "flash_percentage": 71,
                         "ram_bytes": 46380,
                         "ram_percentage": 14

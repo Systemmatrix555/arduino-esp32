@@ -757,8 +757,8 @@
                 "sketches": [
 {"name": "libraries/HTTPUpdateServer/examples/WebUpdater",
                 "sizes": [{
-                        "flash_bytes": 923124,
-                        "flash_percentage": 70,
+                        "flash_bytes": 924468,
+                        "flash_percentage": 71,
                         "ram_bytes": 34544,
                         "ram_percentage": 11
                         }]
