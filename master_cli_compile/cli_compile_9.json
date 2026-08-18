@@ -249,7 +249,7 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientShowPeerCredentials",
                 "sizes": [{
-                        "flash_bytes": 1090773,
+                        "flash_bytes": 1091155,
                         "flash_percentage": 83,
                         "ram_bytes": 36892,
                         "ram_percentage": 11
@@ -757,7 +757,7 @@
                 "sketches": [
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientShowPeerCredentials",
                 "sizes": [{
-                        "flash_bytes": 1053664,
+                        "flash_bytes": 1054040,
                         "flash_percentage": 80,
                         "ram_bytes": 32224,
                         "ram_percentage": 10
@@ -1047,7 +1047,7 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecureProtocolUpgrade",
                 "sizes": [{
-                        "flash_bytes": 949614,
+                        "flash_bytes": 949630,
                         "flash_percentage": 72,
                         "ram_bytes": 46460,
                         "ram_percentage": 14
@@ -1055,7 +1055,7 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientShowPeerCredentials",
                 "sizes": [{
-                        "flash_bytes": 989030,
+                        "flash_bytes": 989434,
                         "flash_percentage": 75,
                         "ram_bytes": 46484,
                         "ram_percentage": 14
@@ -1063,7 +1063,7 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientTrustOnFirstUse",
                 "sizes": [{
-                        "flash_bytes": 961366,
+                        "flash_bytes": 961382,
                         "flash_percentage": 73,
                         "ram_bytes": 46532,
                         "ram_percentage": 14
@@ -1143,7 +1143,7 @@
                 },
 {"name": "libraries/SD/examples/SD_time",
                 "sizes": [{
-                        "flash_bytes": 936551,
+                        "flash_bytes": 936567,
                         "flash_percentage": 71,
                         "ram_bytes": 46380,
                         "ram_percentage": 14
