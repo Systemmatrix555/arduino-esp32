@@ -954,7 +954,7 @@
                 },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Broadcast_Master",
                 "sizes": [{
-                        "flash_bytes": 821875,
+                        "flash_bytes": 821867,
                         "flash_percentage": 63,
                         "ram_bytes": 40572,
                         "ram_percentage": 12
@@ -962,7 +962,7 @@
                 },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Broadcast_Slave",
                 "sizes": [{
-                        "flash_bytes": 822307,
+                        "flash_bytes": 822299,
                         "flash_percentage": 63,
                         "ram_bytes": 40540,
                         "ram_percentage": 12
@@ -970,7 +970,7 @@
                 },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Network",
                 "sizes": [{
-                        "flash_bytes": 825511,
+                        "flash_bytes": 825503,
                         "flash_percentage": 63,
                         "ram_bytes": 40644,
                         "ram_percentage": 12
@@ -978,7 +978,7 @@
                 },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Serial",
                 "sizes": [{
-                        "flash_bytes": 824335,
+                        "flash_bytes": 824327,
                         "flash_percentage": 63,
                         "ram_bytes": 40644,
                         "ram_percentage": 12
@@ -994,7 +994,7 @@
                 },
 {"name": "libraries/ESPmDNS/examples/mDNS_Web_Server",
                 "sizes": [{
-                        "flash_bytes": 862659,
+                        "flash_bytes": 862651,
                         "flash_percentage": 66,
                         "ram_bytes": 44076,
                         "ram_percentage": 13
