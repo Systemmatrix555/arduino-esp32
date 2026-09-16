@@ -68,7 +68,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiClient",
                 "sizes": [{
-                        "flash_bytes": 905084,
+                        "flash_bytes": 905100,
                         "flash_percentage": 69,
                         "ram_bytes": 46736,
                         "ram_percentage": 14
@@ -108,7 +108,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiClientStaticIP",
                 "sizes": [{
-                        "flash_bytes": 905264,
+                        "flash_bytes": 905280,
                         "flash_percentage": 69,
                         "ram_bytes": 46824,
                         "ram_percentage": 14
@@ -116,7 +116,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiExtender",
                 "sizes": [{
-                        "flash_bytes": 890912,
+                        "flash_bytes": 890928,
                         "flash_percentage": 68,
                         "ram_bytes": 45520,
                         "ram_percentage": 14
