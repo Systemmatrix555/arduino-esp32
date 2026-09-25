@@ -1119,7 +1119,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiMultiAdvanced",
                 "sizes": [{
-                        "flash_bytes": 1018066,
+                        "flash_bytes": 1018082,
                         "flash_percentage": 78,
                         "ram_bytes": 47020,
                         "ram_percentage": 14
@@ -1127,7 +1127,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiMultiEnterprise",
                 "sizes": [{
-                        "flash_bytes": 943766,
+                        "flash_bytes": 943782,
                         "flash_percentage": 72,
                         "ram_bytes": 45620,
                         "ram_percentage": 14
@@ -1159,7 +1159,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiScanTime",
                 "sizes": [{
-                        "flash_bytes": 846794,
+                        "flash_bytes": 846810,
                         "flash_percentage": 65,
                         "ram_bytes": 44924,
                         "ram_percentage": 14
