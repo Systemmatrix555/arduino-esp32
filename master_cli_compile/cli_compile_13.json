@@ -4,7 +4,7 @@
                 "sketches": [
 {"name": "libraries/WiFi/examples/WiFiExtender",
                 "sizes": [{
-                        "flash_bytes": 891672,
+                        "flash_bytes": 891688,
                         "flash_percentage": 68,
                         "ram_bytes": 45840,
                         "ram_percentage": 14
@@ -52,7 +52,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiScanAsync",
                 "sizes": [{
-                        "flash_bytes": 890636,
+                        "flash_bytes": 890652,
                         "flash_percentage": 68,
                         "ram_bytes": 45736,
                         "ram_percentage": 14
@@ -241,7 +241,7 @@
                 },
 {"name": "libraries/Wire/examples/WireMaster",
                 "sizes": [{
-                        "flash_bytes": 304922,
+                        "flash_bytes": 304932,
                         "flash_percentage": 23,
                         "ram_bytes": 13888,
                         "ram_percentage": 4
@@ -249,7 +249,7 @@
                 },
 {"name": "libraries/Wire/examples/WireScan",
                 "sizes": [{
-                        "flash_bytes": 304624,
+                        "flash_bytes": 304634,
                         "flash_percentage": 23,
                         "ram_bytes": 13888,
                         "ram_percentage": 4
@@ -257,7 +257,7 @@
                 },
 {"name": "libraries/Wire/examples/WireSlave",
                 "sizes": [{
-                        "flash_bytes": 305232,
+                        "flash_bytes": 305242,
                         "flash_percentage": 23,
                         "ram_bytes": 13888,
                         "ram_percentage": 4
@@ -265,7 +265,7 @@
                 },
 {"name": "libraries/Wire/examples/WireSlaveFunctionalCallback",
                 "sizes": [{
-                        "flash_bytes": 305128,
+                        "flash_bytes": 305138,
                         "flash_percentage": 23,
                         "ram_bytes": 13888,
                         "ram_percentage": 4
@@ -334,7 +334,7 @@
                 },
 {"name": "libraries/Wire/examples/WireMaster",
                 "sizes": [{
-                        "flash_bytes": 326270,
+                        "flash_bytes": 326554,
                         "flash_percentage": 25,
                         "ram_bytes": 18812,
                         "ram_percentage": 6
@@ -342,7 +342,7 @@
                 },
 {"name": "libraries/Wire/examples/WireScan",
                 "sizes": [{
-                        "flash_bytes": 325960,
+                        "flash_bytes": 326242,
                         "flash_percentage": 25,
                         "ram_bytes": 18804,
                         "ram_percentage": 6
@@ -350,7 +350,7 @@
                 },
 {"name": "libraries/Wire/examples/WireSlave",
                 "sizes": [{
-                        "flash_bytes": 326580,
+                        "flash_bytes": 326866,
                         "flash_percentage": 25,
                         "ram_bytes": 18812,
                         "ram_percentage": 6
@@ -358,7 +358,7 @@
                 },
 {"name": "libraries/Wire/examples/WireSlaveFunctionalCallback",
                 "sizes": [{
-                        "flash_bytes": 326476,
+                        "flash_bytes": 326762,
                         "flash_percentage": 25,
                         "ram_bytes": 18812,
                         "ram_percentage": 6
@@ -531,7 +531,7 @@
                 },
 {"name": "libraries/Wire/examples/WireMaster",
                 "sizes": [{
-                        "flash_bytes": 283978,
+                        "flash_bytes": 284208,
                         "flash_percentage": 22,
                         "ram_bytes": 15284,
                         "ram_percentage": 5
@@ -539,7 +539,7 @@
                 },
 {"name": "libraries/Wire/examples/WireScan",
                 "sizes": [{
-                        "flash_bytes": 283680,
+                        "flash_bytes": 283908,
                         "flash_percentage": 22,
                         "ram_bytes": 15276,
                         "ram_percentage": 5
@@ -547,7 +547,7 @@
                 },
 {"name": "libraries/Wire/examples/WireSlave",
                 "sizes": [{
-                        "flash_bytes": 284296,
+                        "flash_bytes": 284534,
                         "flash_percentage": 22,
                         "ram_bytes": 15284,
                         "ram_percentage": 5
@@ -555,7 +555,7 @@
                 },
 {"name": "libraries/Wire/examples/WireSlaveFunctionalCallback",
                 "sizes": [{
-                        "flash_bytes": 284192,
+                        "flash_bytes": 284430,
                         "flash_percentage": 22,
                         "ram_bytes": 15284,
                         "ram_percentage": 5
@@ -797,33 +797,33 @@
                 "sketches": [
 {"name": "libraries/WebServer/examples/SimpleAuthentification",
                 "sizes": [{
-                        "flash_bytes": 868192,
+                        "flash_bytes": 868268,
                         "flash_percentage": 66,
-                        "ram_bytes": 31984,
+                        "ram_bytes": 32016,
                         "ram_percentage": 10
                         }]
                 },
 {"name": "libraries/WebServer/examples/UploadHugeFile",
                 "sizes": [{
-                        "flash_bytes": 1214112,
+                        "flash_bytes": 1214188,
                         "flash_percentage": 39,
-                        "ram_bytes": 37584,
+                        "ram_bytes": 37616,
                         "ram_percentage": 11
                         }]
                 },
 {"name": "libraries/WebServer/examples/WebServer",
                 "sizes": [{
-                        "flash_bytes": 978332,
+                        "flash_bytes": 978284,
                         "flash_percentage": 75,
-                        "ram_bytes": 32464,
+                        "ram_bytes": 32496,
                         "ram_percentage": 10
                         }]
                 },
 {"name": "libraries/WebServer/examples/WebUpdate",
                 "sizes": [{
-                        "flash_bytes": 924478,
+                        "flash_bytes": 934438,
                         "flash_percentage": 71,
-                        "ram_bytes": 34928,
+                        "ram_bytes": 34960,
                         "ram_percentage": 11
                         }]
                 },
@@ -1207,7 +1207,7 @@
                 },
 {"name": "libraries/Wire/examples/WireMaster",
                 "sizes": [{
-                        "flash_bytes": 306111,
+                        "flash_bytes": 306131,
                         "flash_percentage": 23,
                         "ram_bytes": 23500,
                         "ram_percentage": 7
@@ -1215,7 +1215,7 @@
                 },
 {"name": "libraries/Wire/examples/WireScan",
                 "sizes": [{
-                        "flash_bytes": 305879,
+                        "flash_bytes": 305899,
                         "flash_percentage": 23,
                         "ram_bytes": 23500,
                         "ram_percentage": 7
@@ -1223,7 +1223,7 @@
                 },
 {"name": "libraries/Wire/examples/WireSlave",
                 "sizes": [{
-                        "flash_bytes": 306551,
+                        "flash_bytes": 306571,
                         "flash_percentage": 23,
                         "ram_bytes": 23500,
                         "ram_percentage": 7
@@ -1231,7 +1231,7 @@
                 },
 {"name": "libraries/Wire/examples/WireSlaveFunctionalCallback",
                 "sizes": [{
-                        "flash_bytes": 306427,
+                        "flash_bytes": 306447,
                         "flash_percentage": 23,
                         "ram_bytes": 23500,
                         "ram_percentage": 7

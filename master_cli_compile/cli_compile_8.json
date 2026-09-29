@@ -885,9 +885,9 @@
                 },
 {"name": "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_UDP_Light/web",
                 "sizes": [{
-                        "flash_bytes": 921686,
+                        "flash_bytes": 921762,
                         "flash_percentage": 70,
-                        "ram_bytes": 34952,
+                        "ram_bytes": 34984,
                         "ram_percentage": 11
                         }]
                 },
@@ -1010,9 +1010,9 @@
                 },
 {"name": "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_UDP_Light/web",
                 "sizes": [{
-                        "flash_bytes": 903079,
+                        "flash_bytes": 903167,
                         "flash_percentage": 69,
-                        "ram_bytes": 45268,
+                        "ram_bytes": 45300,
                         "ram_percentage": 14
                         }]
                 },
@@ -1127,7 +1127,7 @@
                 },
 {"name": "libraries/Matter/examples/Sensors/MatterTemperatureSensor",
                 "sizes": [{
-                        "flash_bytes": 1684430,
+                        "flash_bytes": 1684446,
                         "flash_percentage": 54,
                         "ram_bytes": 106664,
                         "ram_percentage": 33
@@ -1159,7 +1159,7 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientInsecure",
                 "sizes": [{
-                        "flash_bytes": 949706,
+                        "flash_bytes": 949722,
                         "flash_percentage": 72,
                         "ram_bytes": 46780,
                         "ram_percentage": 14
@@ -1223,9 +1223,9 @@
                 },
 {"name": "libraries/OpenThread/examples/Native/ThreadDNSSD/ThreadDNSSD_UDP_Light/web",
                 "sizes": [{
-                        "flash_bytes": 937798,
+                        "flash_bytes": 937890,
                         "flash_percentage": 72,
-                        "ram_bytes": 49540,
+                        "ram_bytes": 49572,
                         "ram_percentage": 15
                         }]
                 },
@@ -1239,7 +1239,7 @@
                 },
 {"name": "libraries/PPP/examples/PPP_WIFI_BRIDGE",
                 "sizes": [{
-                        "flash_bytes": 945783,
+                        "flash_bytes": 945799,
                         "flash_percentage": 72,
                         "ram_bytes": 45340,
                         "ram_percentage": 14
